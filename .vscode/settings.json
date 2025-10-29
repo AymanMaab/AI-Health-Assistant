@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": ["${workspaceFolder}/src"],
+    "python.autoComplete.extraPaths": ["${workspaceFolder}/src"],
+    "python.linting.pylintArgs": [
+        "--init-hook",
+        "import sys; sys.path.append('src')"
+    ],
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": ["tests"]
+}
