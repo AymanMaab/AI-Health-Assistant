@@ -1,0 +1,16 @@
+{
+  "tests/test_api.py::test_root": true,
+  "tests/test_api.py::test_health_check": true,
+  "tests/test_api.py::test_ask_question": true,
+  "tests/test_api.py::test_ask_question_nutrition": true,
+  "tests/test_api.py::test_medicine_info": true,
+  "tests/test_api.py::test_nutrition": true,
+  "tests/test_api.py::test_list_intents": true,
+  "tests/test_api.py::test_batch_questions": true,
+  "tests/test_api.py::test_invalid_question_too_short": true,
+  "tests/test_api.py::test_invalid_question_too_long": true,
+  "tests/test_api.py::test_invalid_medicine_name": true,
+  "tests/test_api.py::test_batch_too_many_queries": true,
+  "tests/test_api.py::test_missing_required_fields": true,
+  "tests/test_api.py::test_response_structure": true
+}

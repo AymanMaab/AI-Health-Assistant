@@ -1,0 +1,29 @@
+# Environment
+.env
+*.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Cache / temporary files
+__pycache__/
+.cache/
+
+# Models / datasets
+models/
+datasets/
+*.pt
+*.pth
+*.pkl
+*.h5
+*.zip
+*.tar
+*.gz
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
